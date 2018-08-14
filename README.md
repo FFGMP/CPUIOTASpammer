@@ -36,6 +36,12 @@ java -jar iri.jar -p 14265
 ```
 ## With IRI running
 
+### Install:
+
+```
+pip install pyota
+```
+
 ### Change:
 ```
 address = 'RANDOM ADDRESS'
