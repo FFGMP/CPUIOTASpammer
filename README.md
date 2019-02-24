@@ -2,19 +2,6 @@
 
 
 ## Tutorial:
-### Compiling IRI
-
-Make sure to have Maven and Java 8 installed on your computer.
-
-#### To compile & package
-```
-$ git clone https://github.com/iotaledger/iri
-$ cd iri
-$ mvn clean compile
-$ mvn package
-```
-
-This will create a `target` directory in which you will find the executable jar file that you can use.
 
 ### How to run IRI 
 
