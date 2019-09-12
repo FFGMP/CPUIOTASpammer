@@ -44,5 +44,7 @@ os.system('python DirectoryOfTheFile/file.py')
 ```
 After that you can run your Python Script.
 
+## TorSpammer
 
+Just install torsocks and do the steps above.
  
